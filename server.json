@@ -1,0 +1,23 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.runwithfun/pro",
+  "title": "P.R.O.",
+  "description": "Connect your Apple Health workouts, sleep and training progress to your AI assistant.",
+  "version": "1.0.0",
+  "websiteUrl": "https://proapp.uk/mcp-connect",
+  "icons": [
+    {
+      "src": "https://proapp.uk/mcp-guide/pro-icon-256.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "256x256"
+      ]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.proapp.uk"
+    }
+  ]
+}
