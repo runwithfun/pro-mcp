@@ -1,10 +1,10 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.runwithfun/pro",
-  "title": "P.R.O.",
-  "description": "Connect your Apple Health workouts, sleep and training progress to your AI assistant.",
-  "version": "1.0.0",
-  "websiteUrl": "https://proapp.uk/mcp-connect",
+  "title": "P.R.O. Apple Health MCP",
+  "description": "Hosted Apple Health MCP: workouts, sleep and HRV in ChatGPT, Claude, Gemini, Grok. Free, no export.",
+  "version": "1.0.1",
+  "websiteUrl": "https://proapp.uk/apple-health-mcp",
   "icons": [
     {
       "src": "https://proapp.uk/mcp-guide/pro-icon-256.png",
